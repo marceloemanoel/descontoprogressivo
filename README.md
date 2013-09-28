@@ -17,11 +17,11 @@ desconto de 10% mas, o quarto livro continua com o valor cheio.
 
 Seguindo essa lógica qual o valor total do carrinho de compras abaixo?
 
-  2 cópias do primeiro livro
-  2 cópias do segundo livro
-  2 cópias do terceiro livro
-  1 cópia do quarto livro
-  1 cópia do quinto livro
+*  2 cópias do primeiro livro
+*  2 cópias do segundo livro
+*  2 cópias do terceiro livro
+*  1 cópia do quarto livro
+*  1 cópia do quinto livro
 
 Resposta: R$ 51,20
 
